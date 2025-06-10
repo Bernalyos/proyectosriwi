@@ -1,4 +1,9 @@
 # proyectosriwi
+YOSHIRA SAKELETH BARROS BERNAL 
+CLAN: Caiman
+CORREO: barrosyoshira@gmail.com
+CC: 1047035687
+
 proyectos creados en riwi
 #Tienda: Yoshi-te-asesora
 He creado un apagina web estatica usando html y css con estructura semántica (uso de <header>, <nav>,
